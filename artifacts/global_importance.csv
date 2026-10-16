@@ -1,0 +1,58 @@
+feature,mean_abs_shap
+OverTime_No,0.5434251
+EngagementScore,0.41626504
+StockOptionLevel,0.36819562
+MonthlyIncome,0.3424818
+CompaniesPerYear,0.33658385
+Age,0.25130314
+DistanceFromHome,0.21966293
+BusinessTravel_Travel_Frequently,0.1744378
+YearsWithCurrManager,0.15099297
+DailyRate,0.14618371
+OverTime_Yes,0.13976276
+YearsSinceLastPromotion,0.116863206
+EnvironmentSatisfaction,0.11114304
+Gender_Female,0.09941355
+BusinessTravel_Non-Travel,0.09933311
+MaritalStatus_Divorced,0.096820794
+JobLevel,0.091993384
+PercentSalaryHike,0.09082815
+YearsInCurrentRole,0.085793264
+PromotionDelayRatio,0.08353604
+JobSatisfaction,0.08222158
+TrainingTimesLastYear,0.08174728
+Department_Sales,0.07834627
+Department_Research & Development,0.076075435
+RelationshipSatisfaction,0.07502471
+MaritalStatus_Single,0.07407481
+JobRole_Research Scientist,0.06949293
+YearsAtCompany,0.069160074
+EducationField_Technical Degree,0.06626039
+EducationField_Life Sciences,0.06589571
+JobRole_Laboratory Technician,0.06374736
+JobInvolvement,0.06362955
+NumCompaniesWorked,0.060927946
+IncomePerExpYear,0.05314126
+HourlyRate,0.05275792
+WorkLifeBalance,0.05142145
+JobRole_Healthcare Representative,0.04786549
+MonthlyRate,0.0476056
+TotalWorkingYears,0.045540314
+Gender_Male,0.030540302
+JobRole_Sales Executive,0.026774272
+EducationField_Medical,0.024233002
+WorkloadStress,0.022681767
+JobRole_Research Director,0.021025343
+EducationField_Marketing,0.020041598
+JobRole_Sales Representative,0.017936254
+Education,0.014806833
+MaritalStatus_Married,0.01313812
+BusinessTravel_Travel_Rarely,0.011572337
+JobRole_Manufacturing Director,0.009173326
+LongNoPromotion,0.005887588
+PerformanceRating,0.0054664435
+JobRole_Manager,0.00487086
+EducationField_Other,0.0029257252
+Department_Human Resources,0.0
+EducationField_Human Resources,0.0
+JobRole_Human Resources,0.0
